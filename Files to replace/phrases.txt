@@ -1,0 +1,143 @@
+PHR|HEAL|0
+ENG|[BUTTON_HEAL] Use [spr_HudMedIcon] to Heal
+FRN|[BUTTON_HEAL] Utilisez [spr_HudMedIcon] pour vous soigner
+SPA|[BUTTON_HEAL] Usa [spr_HudMedIcon] para curarte
+GER|[BUTTON_HEAL] Benutze [spr_HudMedIcon] zum Heilen 
+ITA|[BUTTON_HEAL] Usa [spr_HudMedIcon] per curarti
+JAP|[BUTTON_HEAL] [spr_HudMedIcon] デ カイフク
+RUS|[BUTTON_HEAL] Используйте [spr_HudMedIcon] для исцеления
+
+PHR|COLLECT|1
+ENG|Hold [BUTTON_INTERACT] to take items
+FRN|Maintenez la touche [BUTTON_INTERACT] pour prendre des objets
+SPA|Mantén pulsado [BUTTON_INTERACT] para recoger objetos
+GER|Halte [BUTTON_INTERACT] gedrückt, um Gegenstände zu nehmen 
+ITA|Tieni premuto [BUTTON_INTERACT] per prendere oggetti
+JAP|[BUTTON_INTERACT] アイテムヲ ヒロウ
+RUS|Удерживайте [BUTTON_INTERACT], чтобы взять предметы
+
+PHR|INTERACT|2
+ENG|Hold [BUTTON_INTERACT] to interact
+FRN|Maintenez la touche [BUTTON_INTERACT] pour interagir
+SPA|Mantén pulsado [BUTTON_INTERACT] para interactuar
+GER|Halte [BUTTON_INTERACT] gedrückt, um mit Objekten zu interagieren
+ITA|Tieni premuto [BUTTON_INTERACT] per interagire
+JAP|[BUTTON_INTERACT] アクション
+RUS|Удерживайте [BUTTON_INTERACT] для взаимодействия
+
+PHR|AIM|3
+ENG|[BUTTON_AIM] Aim    [BUTTON_SHOOT] Shoot
+FRN|[BUTTON_AIM] Viser    [BUTTON_SHOOT] Tirer
+SPA|[BUTTON_AIM] apuntar y    [BUTTON_SHOOT] disparar
+GER|[BUTTON_AIM] Zielen    [BUTTON_SHOOT] Schießen
+ITA|[BUTTON_AIM] Mira    [BUTTON_SHOOT] Spara
+JAP|[BUTTON_AIM] ネラウ    [BUTTON_SHOOT] ウツ
+RUS|[BUTTON_AIM] Прицел    [BUTTON_SHOOT] Огонь
+
+PHR|AMMO|4
+ENG|Slash enemies + objects to charge Guns
+FRN|Découper ennemis et objets charge les fusils
+SPA|Ataca a enemigos y objetos para cargar tus armas
+GER|Schlitze Gegner und Objekte auf, um Schusswaffen aufzuladen
+ITA|Ricarica l'arma da fuoco colpendo nemici e oggetti con la spada 
+JAP|テキト モノヲ キリツケテ ジュウヲ チャージ
+RUS|Рубите врагов и объекты для зарядки оружия
+
+PHR|MAP|5
+ENG|[BUTTON_INVENTORY] View Map
+FRN|[BUTTON_INVENTORY] Voir la carte
+SPA|[BUTTON_INVENTORY] ver mapa
+GER|[BUTTON_INVENTORY] Karte ansehen
+ITA|[BUTTON_INVENTORY] Vedi mappa
+JAP|[BUTTON_INVENTORY] マップ
+RUS|[BUTTON_INVENTORY] Просмотр карты
+
+PHR|WARPPAD|6
+ENG|Warp here any time using the Map
+FRN|Téléportez-vous ici à volonté via la carte
+SPA|Teletranspórtate aquí cuando quieras usando el mapa
+GER|Teleportiere mit Hilfe der Karte jederzeit hierher
+ITA|Usa la mappa quando vuoi per trasferirti qui
+JAP|マップヲ ヒライテ ワープ
+RUS|Телепортируйтесь с карты сюда в любое время
+
+PHR|WARP|7
+ENG|Hold [BUTTON_MENUSELECT] to warp
+FRN|Maintenez [BUTTON_MENUSELECT] pour vous téléporter
+SPA|Mantén pulsado [BUTTON_MENUSELECT] para teletransportarte
+GER|Halte [BUTTON_MENUSELECT] gedrückt, um zu teleportieren
+ITA|Tieni premuto [BUTTON_MENUSELECT] per trasferirti
+JAP|[BUTTON_MENUSELECT] ワープ
+RUS|Удерживайте [BUTTON_MENUSELECT] для телепортации
+
+PHR|REMINDERGUN|8
+ENG|Gun is fully charged from slashing
+FRN|L'arme est entièrement chargée
+SPA|El arma está completamente cargada por atacar
+GER|Waffe wurde durch Aufschlitzen voll geladen
+ITA|Arma da fuoco ricaricata usando la spada
+JAP|ジュウノ フルチャージ カンリョウ
+RUS|Рубите мечом, чтобы полностью зарядить ружье
+
+PHR|CAPE|9
+ENG|Warp Home to change gear
+FRN|Changez d'équipement à la base
+SPA|Teletranspórtate a casa para cambiar el equipo
+GER|Teleportiere dich heim, um die Ausrüstung zu wechseln
+ITA|Torna a casa per cambiare equipaggiamento
+JAP|ホームニ ワープシテ ギアヲ チェンジ
+RUS|Телепортируйтесь домой для смены снаряжения
+
+PHR|SWAP|10
+ENG|[BUTTON_SWAPWEAPON] Swap Guns
+FRN|[BUTTON_SWAPWEAPON] Changer d'arme
+SPA|[BUTTON_SWAPWEAPON] cambiar armas
+GER|[BUTTON_SWAPWEAPON] Schusswaffe wechseln
+ITA|[BUTTON_SWAPWEAPON] Cambia arma da fuoco
+JAP|[BUTTON_SWAPWEAPON] ジュウ キリカエ
+RUS|[BUTTON_SWAPWEAPON] Другое ружье
+
+PHR|LOADOUT|11
+ENG|[BUTTON_INVENTORY] Equip Guns in the Inventory 
+FRN|[BUTTON_INVENTORY] Équiper les armes via l'inventaire
+SPA|[BUTTON_INVENTORY] equipar armas en el inventario
+GER|[BUTTON_INVENTORY] Waffe aus dem Gepäck in die Hand nehmen
+ITA|[BUTTON_INVENTORY] Equipaggia armi da fuoco nell'inventario
+JAP|[BUTTON_INVENTORY] インベントリノ ジュウヲ ソウビ
+RUS|[BUTTON_INVENTORY] Экипируйтесь ружьями в инвентаре 
+
+PHR|PING|12
+ENG|Press [BUTTON_INTERACT] to ping the HUD
+FRN|[BUTTON_INTERACT] pour afficher l'ATH
+SPA|Pulsa [BUTTON_INTERACT] mostrar el HUD
+GER|Drücke [BUTTON_INTERACT], um das HUD anzupingen
+ITA|Premi [BUTTON_INTERACT] per richiamare l'HUD
+JAP|[BUTTON_INTERACT] ゲージヲ ヒョウジ
+RUS|Нажмите [BUTTON_INTERACT], чтобы показать интерфейс
+
+PHR|NOACHIEVEMENTS|13
+ENG|Achievements are disabled during co-op
+FRN|Défis désactivés en coop
+SPA|Los logros están desactivados durante el modo cooperativo
+GER|Erfolge sind im Coop-Modus deaktiviert
+ITA|Obiettivi disattivati durante la modalità co-op
+JAP|Co-opチュウ ジッセキハ カイジョデキマセン
+RUS|В совместной игре достижения отключены
+
+PHR|NEWCOMERHOARDE|14
+ENG|Achievement is disabled in Newcomer mode
+FRN|Réalisation est désactivé en mode Nouveau Venu
+SPA|Logro se desactiva en el modo Recién Llegado
+GER|Leistung wird in Neuling-Modus deaktiviert
+ITA|Realizzazione è disattivata in modalità Nuovo Arrivato
+JAP|ホードアチーブメントイズ・ディセーブルドイン・ニューコマーモード
+RUS|достижение отключен в режиме вновь прибывший
+
+PHR|NEWCOMERHOARDE|90
+ENG|Welcome. Pick up these 2 starting items. You can save at the fireplace.
+FRN|Welcome. Pick up these 2 starting items. You can save at the fireplace.
+SPA|Welcome. Pick up these 2 starting items. You can save at the fireplace.
+GER|Welcome. Pick up these 2 starting items. You can save at the fireplace.
+ITA|Welcome. Pick up these 2 starting items. You can save at the fireplace.
+JAP|Welcome. Pick up these 2 starting items. You can save at the fireplace.
+RUS|Welcome. Pick up these 2 starting items. You can save at the fireplace.
