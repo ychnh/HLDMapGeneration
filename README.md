@@ -3,7 +3,7 @@ Hyper Light Drifter Modding
 
 # Installation Guide
 1. Replace original game contents with the files in the "Files to replace folder".
-2. Place the mapgen.py and mapgenTemplate.txt into the directory with .exe file or the .ios file.
+2. Place the mapgen.py and mapgenTemplate.txt into the directory with .exe file or the .app file.
 3. Run the python script (and leave it running) and start a new game. Take the first elevator down in the tutorial to start the mod.
 4. Collect healthpacks, gearbits, outfits, weapons to upgrade your character as you progress
 
