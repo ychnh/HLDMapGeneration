@@ -87,11 +87,10 @@ DATE,42457.08,
      obj,Scenery,674,160,912,6,-999999,++,0=spr_N_FloorPatchBig,1=0,2=0,3=0,k=0,p=-4,fp=0,4=0,5=0,f=1,l=0,
      obj,Scenery,1727,256,1040,4,-999999,++,0=spr_ScnGauntlet_CeilingTop64,1=0,2=0,3=0,k=0,p=-4,fp=0,4=0,5=1,f=0,l=0,
      obj,Scenery,1847,320,1040,4,-999999,++,0=spr_ScnGauntlet_CeilingTop64,1=0,2=0,3=0,k=0,p=-4,fp=0,4=0,5=1,f=0,l=0,
-//door//
+
      obj,SwordChooser,7825,400,890,2,-999999,++,
      obj,CapeChooser,538,440,890,2,-999999,++,
      obj,CompanionShellChooser,3282,360,890,2,-999999,++,
-	 //Shops//
      obj,NPCGeneric,155,320,900,4,-999999,++,wlb=1,wl=-999999,32=spr_none,300=spr_NPC_teddy_idleSup,301=spr_NPC_teddy_idleSup,302=spr_none,310=spr_NPC_teddy_idleSup,xs=-1,bi=0,tr=5,tg=1,
      obj,UpgradeDash,932,320,900,4,-999999,++,
      obj,NPCGeneric,156,280,920,3,-999999,++,wlb=1,wl=-999999,32=spr_none,300=spr_NPC_akashecary_idleGrind,301=spr_none,302=spr_none,310=spr_NPC_akashecary_idleGrind,xs=-1,bi=0,tr=1,tg=1,
@@ -106,13 +105,11 @@ DATE,42457.08,
      obj,Region,6829,320,900,12,-999999,caseScript,2,1,char,0,++,0=80,1=80,
      obj,EditorCheckpoint,5662,320,900,10,1,6829,caseScript,3,1,-999999,0,++,
 	 
-//     obj,Region,4677,200,700,14,-999999,caseScript,2,1,char,0,++,0=1000,1=1000,//
      obj,ColorRegion,3954,200,700,8,-999999,++,w=500,h=500,c=328711,	 
      obj,DrifterDeath,6610,100,900,11,1,4677,caseScript,3,1,-999999,0,++,
      obj,Spawner,5979,000,950,14,-999999,++,-1=EmberFox,-2=-999999,-4=1,-5=0,-6=-1,-7=0,-8=0,d=90,
 	 
-//     obj,Scenery,6680,0,700,1,-999999,++,0=spr_A_FinalDeadRoomBONES,1=0,2=0,3=0,k=0,p=-4,fp=0,4=0,5=0,f=1,l=0,//
-//     obj,Pulser,2512,0,500,0,-999999,++,00=0.20,01=0,//
+
 	 
      obj,Scenery,4968,320,900,12,-999999,++,0=spr_BonFireFlame,1=6.32,2=0.33,3=1,k=0,p=-4,fp=0,4=0,5=0,f=1,l=1,
      obj,door,6775,600,904,0,1,3120,caseScript,3,1,-999999,0,++,rm=rm_WC_MiniLab,dr=2762,ed=180,wo=1,
