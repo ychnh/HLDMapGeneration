@@ -362,5 +362,4 @@ DATE,42459.28,
      obj,TutorialButtonPrompt,5834,536,1168,15,1,5877,caseScript,3,1,-999999,0,++,b=2,ph=2,
 
 //Televator//
-//     obj,Televator,3465,536,1248,0,-999999,++,rm=rm_IN_02_Tutorial,dr=5545,ed=0,m=0,v=1,a=0,trn=1,//
      obj,Televator,3465,536,1248,0,-999999,++,rm=rm_C_BackerTabletX,dr=3821,ed=0,m=0,v=1,a=0,trn=1,
