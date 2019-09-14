@@ -13,3 +13,9 @@ A new level is generated everytime you leave the map.
  Just restart the hyper light drifter game and it should be fine.
 
 The game gets more difficult the more you play. If the game is getting too difficult, restart the python script. The difficulty will reset.
+
+# Future
+* UI Custom overlay
+* https://github.com/dzen/pyosd
+* Move to different planets after exiting game and starting new
+* Generate planets randomly with GANs
