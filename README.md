@@ -19,3 +19,7 @@ The game gets more difficult the more you play. If the game is getting too diffi
 * https://github.com/dzen/pyosd
 * Move to different planets after exiting game and starting new
 * Generate planets randomly with GANs
+
+
+# Windows Installation
+* http://www.python.org/download/windows/
