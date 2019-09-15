@@ -177,7 +177,7 @@ while 1 < 2:
 
             print("   Opening Template...")
 
-
+            # Windows Change
             out_file = open('HyperLightDrifter/West/rm_wc_minilab.lvl', 'w')
             out_file.truncate()
             out_file.write(target_data)
