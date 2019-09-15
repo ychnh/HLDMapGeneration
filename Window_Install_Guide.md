@@ -4,7 +4,7 @@
 * Download Zip this project (green button topish right) [Clone or download]
 * Find your HyperLightDrifter install path.
   * In steam this can be found by right clicking game in library->properties->local files->browse local files
-  * Copy the files in "Files to replace" into the appropriate directory into your game.
+  * Copy the files in "Windows Files to replace" into the appropriate directory into your game.
   * Copy mapgen3Windows.py and mapgenTemplate.txt in the directory right outside the HyperLightDrifter path
   ![](install_picture.PNG)
 * Click the mapgen3Windows.py and a command prompt should come up and show it generated a map.
