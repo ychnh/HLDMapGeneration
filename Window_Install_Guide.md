@@ -1,7 +1,7 @@
 # Windows Installation
 * Install Python 3.x.x from http://www.python.org/download/windows/
   * 3.7.4 Download Windows x86-64 executable installer
-* Download Zip this project (green button topish right) [Clone or download]
+* Download Zip this project (green button topish right) [Clone or download] https://github.com/ychnh/HLDMapGeneration
 * Find your HyperLightDrifter install path.
   * In steam this can be found by right clicking game in library->properties->local files->browse local files
   * Copy the files in "Windows Files to replace" into the appropriate directory into your game.
