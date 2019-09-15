@@ -21,5 +21,9 @@ The game gets more difficult the more you play. If the game is getting too diffi
 * Generate planets randomly with GANs
 
 
+# Goals 
+* python 3 convert
+* understand parameters and events
+* rewrite random gen into localized
 # Windows Installation
 * http://www.python.org/download/windows/
