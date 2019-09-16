@@ -10,6 +10,7 @@
 * Click the mapgen3Windows.py and a command prompt should come up and show it generated a map and continue running.
 * LEAVE THE SCRIPT RUNNING
 * Launch Hyper Light Drifter, Start a new game, Walk down and take the elevator and enjoy the mod.
+* Make sure you collect the pistol and the map right after you take the elevator or you wont be able to use guns properly.
 * You can type '/skip' in the ingame intro video to skip the long intro video
 
 Please keep in mind it is in rough stages.
