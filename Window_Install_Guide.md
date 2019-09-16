@@ -8,6 +8,7 @@
   * Copy mapgen3Windows.py and mapgenTemplate.txt in the directory right outside the HyperLightDrifter path
   ![](install_picture.PNG)
 * Click the mapgen3Windows.py and a command prompt should come up and show it generated a map and continue running.
+* LEAVE THE SCRIPT RUNNING
 * Launch Hyper Light Drifter, Start a new game, Walk down and take the elevator and enjoy the mod.
 * You can type '/skip' in the ingame intro video to skip the long intro video
 
