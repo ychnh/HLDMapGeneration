@@ -35,7 +35,13 @@ def addOutfit(outfile, uniqID, x, y, outfitType, outfitLootVal):
 
     outfitTypeIdxToString = ['spr_ghost', 'spr_UiSwordIcon', 'spr_uiCapeIcon']
     outfitTypeStr = outfitTypeIdxToString[outfitType]
-    out_file.write("\n     obj,DrifterBones_Outfit,"+s(uniqID)+","+s(x)+","+s(y)+",3,-999999,++,spr="+outfitTypeStr+",i="+s(outfitLootVal)+",f=0,k=0,g=0,c=0,s="+s(outfitSpriteVal)+",w=-999999,")
+    if outfitType == 1:
+        out_file.write("\n     obj,DrifterBones_Outfit,"+s(uniqID)+","+s(x)+","+s(y)+",3,-999999,++,spr=spr_UiSwordIcon,i="+s(outfitLootVal)+",f=0,k=0,g=0,c=0,s="+s(outfitSpriteVal)+",w=-999999,")
+    elif outfitType == 2:                    
+        out_file.write("\n     obj,DrifterBones_Outfit,"+s(uniqID)+","+s(x)+","+s(y)+",3,-999999,++,spr=spr_uiCapeIcon,i="+s(outfitLootVal)+",f=0,k=0,g=0,c="+s(outfitSpriteVal)+",s=0,w=-999999,")
+    else:
+        out_file.write("\n     obj,DrifterBones_Outfit,"+s(uniqID)+","+s(x)+","+s(y)+",3,-999999,++,spr=spr_ghost,i="+s(outfitLootVal)+",f=0,k=0,g="+s(outfitSpriteVal)+",c=0,s=0,w=-999999,")
+
 
 def addWeapon(outfile, uniqID,x,y,weaponType):
     uniqID += 1
