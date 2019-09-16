@@ -40,8 +40,7 @@ def addOutfit(outfile, uniqID, x, y, outfitType, outfitLootVal):
 def addWeapon(outfile, uniqID,x,y,weaponType):
     uniqID += 1
     weaponID = {'pistol':1, 'zeliska':2, 'railgun':21,'railgunblast':23,'blunderbuss':41,'shotgun':43}
-    out_file.write("\n     obj,DrifterBones_Weapon,"+s(uniqID)+","+s(x)+","+s(y)+",8,-999999,++,spr=spr_itemsGUI,i=1,f=0,k=0,g=0,c=0,s=0,w="+s(weaponID[weaponType])+",")
-
+    out_file.write("\n     obj,DrifterBones_Weapon,"+s(uniqID)+","+s(x)+","+s(y)+",8,-999999,++,spr=spr_itemsGUI,i="+s(weaponID[weaponType])+",f=0,k=0,g=0,c=0,s=0,w="+s(weaponID[weaponType])+",")
 
 
 def spawnLoot(out_file,xPos,yPos):
