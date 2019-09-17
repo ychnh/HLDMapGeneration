@@ -7,7 +7,7 @@
 * Run 1install.py
 ![](step2.PNG)
 * Run 2enable_last_access.bat **AS ADMIN. THIS IS A MUST*
-![](step25.PNG)
+![](step23.PNG)
 * **RESTART YOUR COMPUTER**
 * Run run_mod.py
 ![](step3.PNG)
