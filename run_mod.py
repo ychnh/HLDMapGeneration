@@ -170,8 +170,12 @@ target = open("rsc/map_template")
 target_data = target.read()
 target.close()
 
+import subprocess
 if OS == 'WIN':
-    rsc_game = os.path.join(common_dir,'HyperLightDrifter')    
+    rsc_game = os.path.join(common_dir,'HyperLightDrifter')
+    game_path = os.path.join(rsc_game,'HyperLightDrifter.exe')
+    os.startfile(game_path)
+    
 
 while 1 < 2:
     if time.time()-lastTime > 2.0:
