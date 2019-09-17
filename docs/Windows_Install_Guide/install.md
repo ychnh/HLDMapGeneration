@@ -2,9 +2,9 @@
 * Install Python 3.x.x from http://www.python.org/download/windows/
   * 3.7.4 Download Windows x86-64 executable installer
 * Download this project https://github.com/ychnh/HLDMapGeneration/archive/master.zip
-* Unzip and move contents into the folder **Like in picture below**
+* Unzip and move contents into the folder outside HyperLightDrifter **Like in picture below**
 ![](step1.PNG)
-* Run 1install.py
+* Go into the mod and Run 1install.py
 ![](step2.PNG)
 * Run 2enable_last_access.bat **AS ADMIN. THIS IS A MUST**
 ![](step23.png)
