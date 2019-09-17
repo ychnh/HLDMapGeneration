@@ -15,4 +15,4 @@
 # Additional Notes and How to Play the GAME
 * Create a new savefile and enjoy. You can skip the intro cutscene video with /skip
 * Walk down the road in spawn and take the televator it will take you to **HUB**
-* Go **LEFT** to go into the dungeon. This room will respawn each time you join it and get harder each time.
+* Go **Right** to go into the dungeon. This room will respawn each time you join it and get harder each time.
