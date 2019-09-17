@@ -1,10 +1,14 @@
+from pathlib import Path
+
 def read_file(file_path):
+  file_path = Path(file_path)
   target = open(file_path)
   target_data = target.read()
   target.close()
   return target_data
 
 def write_file(target_data, file_path):
+  file_path = Path(file_path)
   out_file = open(file_path, 'w')
   out_file.truncate()
   out_file.write(target_data)
