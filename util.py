@@ -10,5 +10,5 @@ def write_file(target_data, file_path):
   out_file.write(target_data)
 
 def replace_file(file_src, file_dest):
-    target_data = readfile(file_src)
-    writefile(target_data, file_dest)
+  target_data = read_file(file_src)
+  write_file(target_data, file_dest)
