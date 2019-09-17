@@ -26,8 +26,10 @@ elif OS == 'WIN':
 
 
 print(rsc_game)
-a = raw_input()
 for filename, rsc_dir_src, rsc_dir_dest in replace_pairs:
     file_src = join(filename, rsc_dir_src)
     file_dest = join(filename, rsc_dir_dest)
     util.replace_file(file_src, file_dest)
+
+while(True):
+    a=1
