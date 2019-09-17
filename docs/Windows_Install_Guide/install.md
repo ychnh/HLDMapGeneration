@@ -6,7 +6,7 @@
 ![](step1.PNG)
 * Run 1install.py
 ![](step2.PNG)
-* Run 2enable_last_access.bat **AS ADMIN. THIS IS A MUST*
+* Run 2enable_last_access.bat **AS ADMIN. THIS IS A MUST**
 ![](step23.png)
 * **RESTART YOUR COMPUTER**
 * Run run_mod.py
