@@ -35,4 +35,7 @@ for filename, rsc_dir_src, rsc_dir_dest in copy_pairs:
   file_src = join(rsc_installer,rsc_dir_src, filename)
   file_dest = join(rsc_game,rsc_dir_dest, filename)
   copyfile(file_src, file_dest)
-  
+
+print('Installation Complete')  
+import time
+time.sleep(10)

@@ -162,15 +162,24 @@ generation = (startDifficulty)*5
 lastRead = 0
 lastTime = 0.0
 
-target = open("mapgenTemplate.txt")
+
+OS = 'WIN'
+mod_dir = os.getcwd()
+common_dir = os.path.dirname(os.getcwd())
+target = open("rsc/map_template")
 target_data = target.read()
 target.close()
+
+if OS == 'WIN':
+    rsc_game = os.path.join(common_dir,'HyperLightDrifter')    
 
 while 1 < 2:
     if time.time()-lastTime > 2.0:
         lastTime = time.time()
         # Windows Change
-        currRead = os.stat('HyperLightDrifter/Central/rm_c_backertabletx.lvl').st_atime
+        backer_path = os.path.join(rsc_game,'Central/rm_c_backertabletx.lvl')
+        dungeon_path = os.path.join(rsc_game,'West/rm_wc_minilab.lvl')
+        currRead = os.stat(backer_path).st_atime
         if lastRead != currRead:
             lastRead = currRead
             generation += 1
@@ -183,7 +192,7 @@ while 1 < 2:
             print("   Opening Template...")
 
             # Windows Change
-            out_file = open('HyperLightDrifter/West/rm_wc_minilab.lvl', 'w')
+            out_file = open(dungeon_path, 'w')
             out_file.truncate()
             out_file.write(target_data)
             print("   Generating Floors...")
