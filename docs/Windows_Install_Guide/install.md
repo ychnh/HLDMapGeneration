@@ -9,7 +9,7 @@
 * Run 2enable_last_access.bat **AS ADMIN. THIS IS A MUST** (This steps allows the mod to see when you accessed a level to regenerate it. You can open it in textpad to see that its contents and that it isn't malicious)
 ![](step23.png)
 * **RESTART YOUR COMPUTER**
-* Run run_mod.py
+* Run PLAY_GAME.py
 * ![](step3.PNG)
 
 # Additional Notes and How to Play the GAME
