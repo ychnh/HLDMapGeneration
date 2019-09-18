@@ -3,7 +3,6 @@
   * 3.7.4 Download Windows x86-64 executable installer
 * Download this project https://github.com/ychnh/HLDMapGeneration/archive/master.zip
 * Unzip and move contents into the folder outside HyperLightDrifter **Like in picture below**
-* The Game Folder **NEEDS** to be named 'HyperLightDrifter' **NO SPACES**
 ![](step1.PNG)
 * Go into the mod and Run 1install.py
 ![](step2.PNG)
@@ -16,4 +15,5 @@
 # Additional Notes and How to Play the GAME
 * Create a new savefile and enjoy. You can skip the intro cutscene video with /skip
 * Walk down the road in spawn and take the televator it will take you to **HUB**
+* Make sure you **pick up the gun and the map**
 * Go **Right** to go into the dungeon. This room will respawn each time you join it and get harder each time.
