@@ -3,6 +3,7 @@
   * 3.7.4 Download Windows x86-64 executable installer
 * Download this project https://github.com/ychnh/HLDMapGeneration/archive/master.zip
 * Unzip and move contents into the folder outside HyperLightDrifter **Like in picture below**
+* The Game Folder **NEEDS** to be named 'HyperLightDrifter' **NO SPACES**
 ![](step1.PNG)
 * Go into the mod and Run 1install.py
 ![](step2.PNG)
