@@ -13,6 +13,10 @@
 * ![](step3.PNG)
 
 # Additional Notes and How to Play the GAME
+* **PLEASE GIVE ME FEEDBACK AS THE GAME IS IN ACTIVE DEVELOPMENT**
+  * Youtube https://www.youtube.com/watch?v=6vuLLE6BMBY&t=50s
+  * Discord https://discord.gg/tRmpSFY
+
 * Create a new savefile and enjoy. You can skip the intro cutscene video with /skip
 * Walk down the road in spawn and take the televator it will take you to **HUB**
 * Make sure you **pick up the gun and the map**
